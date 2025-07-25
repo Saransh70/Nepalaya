@@ -59,7 +59,7 @@ const ExportServices = () => {
           <p className="text-xl text-white/80 max-w-3xl mx-auto leading-relaxed">
             Comprehensive export solutions designed to make international trade simple and reliable.
           </p>
-        </div>
+        </motion.div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-20">
           {/* Left - Services Grid */}
